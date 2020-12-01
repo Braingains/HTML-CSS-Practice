@@ -1,0 +1,17 @@
+
+
+body>header{
+    background-color:blue;
+    color: white;
+    
+    
+}
+
+body>header>nav{
+    color:white;
+
+}
+footer{
+background-color:blue;
+color: white; 
+}
